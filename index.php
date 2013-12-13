@@ -2,19 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>App Inventor教學網</title>
 </head>
 
 <body>
 
 
-	<h2>電腦科學學習網</h2>
+	<h2>電腦多媒體理論與實務_Group 2成果</h2>
 
 <div id="MAIN_NAV" >
 
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li>  
-		<li><a href="upload.php">檔案上傳</a></li>
+		<li><a href="reading.php">有關AppInventor</a></li>  
+		<li><a href="upload.php">App Inventor Classic環境建置</a></li>
 		<li><a href="message.php">留言板</a></li>
 		<li><a href="record.php">歷史紀錄</a></li>
 		<li><a href="login.php">會員資料修改</a></li>
