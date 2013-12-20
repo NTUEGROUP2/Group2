@@ -13,8 +13,8 @@
 <div id="MAIN_NAV" >
 
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li> 
-		<li><a href="upload.php">檔案上傳</a></li>
+        <li><a href="reading.php">有關AppInventor</a></li>  
+        <li><a href="upload.php">App Inventor Classic環境建置</a></li>
 		<li><a href="message.php">留言板</a></li>
 		<li><a href="record.php">歷史紀錄</a></li>
 		<li><a href="login.php">會員資料修改</a></li>
@@ -27,12 +27,33 @@
 	<p>
 		<center>
 		<h2>小組自行設計區<br/></h2>
-		<table>
+		<table border = 1>
 		<tr>
-			<td> <h4>例如列出小組團隊組員名單，專長．．．等等<br/></td>
+			<td height = 5 width = 500 align = center> <h3>科系</h3><br/></td>
+			<td height = 5 width = 500 align = center> <h3>姓名</h3><br/></td>
+		</tr>
+		<tr>
+			<td height = 5 width = 500 align = center> <h4>數資系</h4><br/></td>
+			<td height = 5 width = 500 align = center> <h4>田昊民</h4><br/></td>
+		</tr>
+		<tr>
+			<td height = 5 width = 500 align = center> <h4>數資系</h4><br/></td>
+			<td height = 5 width = 500 align = center> <h4>謝長恩</h4><br/></td>
+		</tr>
+		<tr>
+			<td height = 5 width = 500 align = center> <h4>數資系</h4><br/></td>
+			<td height = 5 width = 500 align = center> <h4>黃俊凱</h4><br/></td>
+		</tr>
+		<tr>
+			<td height = 5 width = 500 align = center> <h4>數資系</h4><br/></td>
+			<td height = 5 width = 500 align = center> <h4>盧嘉嬅</h4><br/></td>
+		</tr>
+		<tr>
+			<td height = 5 width = 500 align = center> <h4>語創系</h4><br/></td>
+			<td height = 5 width = 500 align = center> <h4>范氏梅</h4><br/></td>
 		</tr>
 		</table>
-		<br/><br/><br/><br/><br/><br/></h4>
+		<br/><br/><br/><br/><br/><br/>
 		</center>
 	</p>
 </div>
