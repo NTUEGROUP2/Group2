@@ -36,10 +36,7 @@
 	</p>
 </div>
 <div id="FOOTER">	
-	<p>
-		<br/><br/><br/><br/><br/><br/>
-		<h2><center><br/>Author by <i>Yi-Chan Kao</i> & <i>Gung-Si Chen</i> </center></h2>
-	</p>
+
 </div>
 </body>
 </html>
