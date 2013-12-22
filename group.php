@@ -26,7 +26,7 @@
 <div id="CONTENT" >   
 	<p>
 		<center>
-		<h2>小組自行設計區<br/></h2>
+		<h2>小組名單<br/></h2>
 		<table border = 1>
 		<tr>
 			<td height = 5 width = 500 align = center> <h3>科系</h3><br/></td>
