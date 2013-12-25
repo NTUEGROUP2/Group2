@@ -20,6 +20,7 @@
 		<li><a href="login.php">會員資料修改</a></li>
 		<li><a href="group.php">管理團隊</a></li>
 		<li><a href="manager_login.php">管理者專區</a></li>
+		<li><a href="reading.php">Symmetric test</a></li>
 	</ul>
 </div>
 <div id="CONTENT" >   
