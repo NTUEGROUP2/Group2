@@ -46,7 +46,7 @@
 		</tr>
 		<tr>
 			<td height = 5 width = 500 align = center> <h4>數資系</h4><br/></td>
-			<td height = 5 width = 500 align = center> <h4>盧嘉嬅</h4><br/></td>
+			<td height = 5 width = 500 align = center> <h4>盧佳嬅</h4><br/></td>
 		</tr>
 		<tr>
 			<td height = 5 width = 500 align = center> <h4>語創系</h4><br/></td>
