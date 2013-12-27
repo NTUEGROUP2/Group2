@@ -73,7 +73,7 @@ $row = mysql_fetch_row(mysql_query($sql));
 				$sql = "SELECT * FROM member";
 				$result = mysql_query($sql);
 											
-				if (!$result) { .
+				if (!$result) {
 					die('Invalid query: ' . mysql_error());
 				}
 				
