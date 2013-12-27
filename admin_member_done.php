@@ -25,7 +25,7 @@
 		<li><a href="upload.php">檔案上傳</a></li>
 		<li><a href="message.php">留言板</a></li>
 		<li><a href="record.php">歷史紀錄</a></li>
-		<li><a href="login.php">會員資料修改</li>
+		<li><a href="login.php">會員資料修改</a></li>
 		<li><a href="group.php">管理團隊</a></li>
 		<li><b>管理者專區</b></li>
 		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
@@ -41,7 +41,7 @@
 			if($button === "新增"){ 
 				$sql = "INSERT INTO member (account, password, username, email, country, age) VALUES ('$account', '$password', '$username', '$email', '$country', '$age')"; //要insert的value值
 				$result = mysql_query($sql);
-				if (!$result) { /
+				if (!$result) {
 					die('Invalid query: ' . mysql_error());
 				}
 				echo "<h3>資料已新增.....</h3>";
