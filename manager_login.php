@@ -15,7 +15,7 @@
 		<li><a href="upload.php">檔案上傳</a></li>
 		<li><a href="message.php">留言板</a></li>
 		<li><a href="record.php">歷史紀錄</a></li>
-		<li><a href="login.php">會員資料修改</a	></li>
+		<li><a href="login.php">會員資料修改</a></li>
 		<li><a href="group.php">管理團隊</a></li>
 		<li><b>管理者專區</b></li>
 		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
@@ -30,14 +30,14 @@
 		
 		<form name="form" method="post" action="manager_connect.php"> 
 			<p>
-			帳號：<input type="text" name="id" /> <br>
-			密碼：</h1><input type="password" name="pw" /> <br>
+			帳號：<input type="text" name="id" /> <br/>
+			密碼：<input type="password" name="pw" /> <br/>
 			</p>
 			<input type="submit" name="button" value="送出" />
 			<p>
 			</p>
 		</form>
-		<center>
+		</center>
 	</p>
 </div>
 <div id="FOOTER">	
