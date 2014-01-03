@@ -23,6 +23,7 @@
 </div>
 <div id="CONTENT">
 	<p>
+	<p align="center"><img src="meterial/member.jpg"></p>
 		<center>
 		<h2>會員資料修改<br/></h2>
 		<br/>
