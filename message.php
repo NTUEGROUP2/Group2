@@ -36,7 +36,7 @@
 	</ul>
 </div>
 <div id="CONTENT"> 
-	<p align="center"><img src="messagepicture\fig.jpg"></p>
+	<p align="center"><img src="meterial/message.jpg"></p>
     <?php
       require_once("dbtools.inc.php");
 			
@@ -54,7 +54,7 @@
 			
       
       $sql = "SELECT * FROM message ORDER BY date DESC";	
-      $result = execute_sql("LMS", $sql, $link);
+      $result = execute_sql("group2", $sql, $link);
 
       
       $total_records = mysql_num_rows($result);
