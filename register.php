@@ -54,7 +54,7 @@
 							</tr>
 						</table>
 						<br/><br/>
-						<input type="submit" name="button" value="註冊" /> <!--上傳資料按鈕-->
+						<input type="submit" name="button" value="註冊" />
 					</form>
 				</center>
 			</p>
