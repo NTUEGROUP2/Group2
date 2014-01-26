@@ -1,7 +1,7 @@
 <?php  
 $host="localhost";
-$user="root";
-$password="NTUE";
+$user="group2";
+$password="ab4";
 $link=mysql_connect($host,$user,$password);
 $query = "SET NAMES 'utf8'";
 $result = mysql_query($query);

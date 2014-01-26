@@ -5,33 +5,35 @@
 		include("mysql_connect.php");
 		?>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>國立臺北教育大學_學習網</title>
+		<title>App Inventor教學網</title>                 <!--網頁標題-->  
 	</head>
 
 	<body>
 		<div id="HEADER">
-			<h2>電腦科學學習網</h2>
+			<h2>電腦多媒體理論與實務_Group 2成果</h2>         <!--網頁主題--> 
 		</div>
-		<div id="MAIN_NAV">
+		
+		<div id="MAIN_NAV" >
+		<p align="center"><img src="design/customLogo.png"></p> 
+		<div id="MAIN_NAV" >
 			<ul>
-				<li><a href="reading.php">開始閱讀</a></li>
+				<li><a href="reading.php">進入教室</a></li               <!--左橫幅--> 
 				<li><b>檔案上傳</b></li>
 				<li><a href="message.php">留言板</a></li>
-				<li><a href="record.php">歷史紀錄</a></li>
 				<li><a href="login.php">會員資料修改</a></li>
 				<li><a href="group.php">管理團隊</a></li>
-				<li><a href="manager_login.php">管理者專區</a></li>
+				
 				<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
 			</ul>
 		</div>
 		<div id="CONTENT"> 
 			<p align="center"><img src="meterial/film.jpg"></p>  
 			<p align="center">
-				歡迎使用檔案上傳服務，您可以一次上傳多個檔案。
+				歡迎使用檔案上傳服務，您可以一次上傳多個檔案。         <!--主要內容--> 
 			</p> 
 			<p align="center">
 				<center>
-					<form method="post" action="uploadconect.php" enctype="multipart/form-data">
+					<form method="post" action="uploadconect.php" enctype="multipart/form-data">         <!--檔案限定，上傳--> 
 						<input type="file" name="myfile[]" size="50"></input><br/>
 						<input type="file" name="myfile[]" size="50"></input><br/>
 						<input type="file" name="myfile[]" size="50"></input><br/>

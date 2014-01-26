@@ -1,0 +1,7 @@
+﻿從智慧型手機、平板電腦開始流行，Angry Birds、Temple Run、WatsApp、LINE、Camera360、Draw Something等應用程式的成功，讓開發 App 應用程式變成熱門的話題。然而提到程式設計經常讓許多人望而卻步，您是否看著書本上一堆陌生的程式碼，卻不曉得從何下手呢？
+
+一般來說，開發行動裝置的應用程式，需要深入瞭解系統架構、程式語法、編譯與發佈的流程。說實在的，想在短時間內寫個像樣的應用程式，對許多人而言並不是件容易的事情，然而 App Inventor 線上服務與一般 App 的開發工具不同，透過我們熟悉的網頁瀏覽器 ( Internet Explorer、Google Chrome、Firefox ) 開發，專案進度則是儲存在雲端伺服器，並且可隨時下載到您的行動裝置進行測試。
+
+Google 推出的 App Inventor 線上服務可讓您開發行動裝置的應用程式，即使您沒有程式設計的基礎，也可以在短時間學會製作自已的 Android App 程式，還可以支援 Google Map、GPS 定位、網際網路、語音辨識等功能，聽起來似乎很不可思議，但是 App Inventor 就是這麼神奇！
+
+前不久 Google 將 App Inventor 交給美國麻省理工學院媒體實驗室 ( MIT Media Lab ) 進行後續的開發與推展，對使用者而言，App Inventor 線上服務的開發流程是相同的。請前往 App Inventor MIT 官方網頁 http://appinventor.mit.edu

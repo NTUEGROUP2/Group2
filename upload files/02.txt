@@ -1,0 +1,69 @@
+﻿使用 App Inventor 開發行動裝置上的應用程式，必須使用 Google 帳號登入，若您曾經申請過 Google 帳號或 Gmail 信箱，請使用您的帳號登入即可。
+
+ 
+
+安裝 Java
+
+您的電腦必須安裝 Java 才可使用 App Inventor 的完整功能，您可以到 Java 官方網站 ( http://www.java.com ) 免費下載。
+
+
+
+按下網頁的 [ 免費 Java 下載 > 同意並開始免費下載 ] 。
+
+
+
+接著在檔案下載的對話框，按下「執行」按鈕。
+
+
+
+若您的瀏灠器是 Internet Explorer，將會出現安全性警告，請按下「執行」按鈕。
+
+
+
+按下「安裝」按鈕。
+
+
+
+接著稍等約 1 分鐘。
+
+
+
+注意！ 您登入 Windows 作業系統的帳號需擁有安裝軟體的權限，否則將會無法安裝喔！
+
+
+
+
+
+當 Java 安裝完成時，請關閉所有瀏覽器視窗，再重新開啟瀏覽器即可讓 Java 開始運作。
+
+ 
+
+安裝 App Inventor
+
+接著安裝 App Inventor 到 Windows 作業系統，首先下載 App Inventor：
+
+下載說明 http://appinventor.mit.edu/explore/content/windows.html
+
+下載路徑 http://dl.google.com/dl/appinventor/installers/windows/appinventor_setup_installer_v_1_2.exe
+
+本教學使用 Windows XP 作業系統示範，若您在 Mac OS 或 Linux 系統開發應用程式，必須安裝適當的驅動程式，其餘的部分大致相同。
+
+下載後執行 AppInventor 安裝程式，按下「Next」按鈕。
+
+
+
+按下「I Agree」按鈕同意 AppInventor 軟體授權協議。
+
+
+
+選擇 AppInventor 安裝的資料夾。
+
+
+
+按下「Finish」按鈕完成安裝。
+
+
+
+App Inventor 安裝完成後，在 Windows 的開始程式集並不會出現開啟 App Inventor 的項目，因為 App Inventor 是在網頁瀏覽器進行大部份的操作，開始程式集的 Uninstall AppInventor Setup 是讓您反安裝程式的，可別看到就執行下去，否則等於沒裝 App Inventor 喔！
+
+接下來，就要開始介紹 App Inventor Designer 設計師的操作環境，請 按這裡 前往下一段教學

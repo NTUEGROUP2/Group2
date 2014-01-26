@@ -7,29 +7,31 @@
 include("mysql_connect.php");  
 ?>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>App Inventor教學網</title>
 </head>
 
 <body>
 <div id="HEADER">
-	<h2>電腦科學學習網</h2>
+	<h2>電腦多媒體理論與實務_Group 2成果</h2>
 </div>
-<div id="MAIN_NAV">
+
+<div id="MAIN_NAV" >
+		<p align="center"><img src="design/customLogo.png"></p> 
+		<div id="MAIN_NAV" >
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li>  
+		<li><a href="reading.php">進入教室</a></li>  
 		<li><b>檔案上傳</b></li>
 		<li><a href="message.php">留言板</a></li>
-		<li><a href="record.php">歷史紀錄</a></li>
 		<li><a href="login.php">會員資料修改</a></li>
 		<li><a href="group.php">管理團隊</a></li>
-		<li><a href="manager_login.php">管理者專區</a></li>
+		
 		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
 	</ul>
 </div>
 <div id="CONTENT"> 
 	<p>
 		<center>
-		    <p align="center"><img src="design/uploadtitle.jpg"></p>
+		    <p align="center"><img src="meterial/film.jpg"></p>
     <?php
       
       $upload_dir =  "./upload files/";
@@ -61,7 +63,7 @@ include("mysql_connect.php");
 <div id="FOOTER">	
 	<p>
 		<br/><br/><br/><br/><br/><br/>
-		<h2><center><br/>Author by <i>Yi-Chan Kao</i> & <i>Gung-Si Chen</i> </center></h2>
+		
 	</p>
 </div>
 </body>
